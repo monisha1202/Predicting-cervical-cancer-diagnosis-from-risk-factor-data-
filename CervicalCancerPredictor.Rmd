@@ -2,13 +2,11 @@
 title: "Predicting diagnosis of cervical cancer from risk factors"
 author:
 - Monisha Mittal
-- Signature Project
 date: "August 17, 2022"
 output:
   html_document:
     df_print: paged
 subparagraph: yes
-subtitle: DA5030 Intro to Machine Learning & Data Mining
 documentclass: report
 fontsize: 12pt
 geometry: margin=0.7in
