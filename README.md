@@ -10,6 +10,7 @@ Almost all cervical cancers are caused by human papillomavirus (HPV). HPV usuall
 - Having multiple sexual partners.
  
 __Diagnosis__
+
 A Pap test is used for initial screening. If cervical cancer is suspected,doctor may use the following methods to confirm presence of cancer[@diagnosis_research]:
 
 - Biopsy
@@ -25,6 +26,6 @@ The goal of this project is to examine how cervical cancer risk factors can pred
 
 ## Data Acquisition
 
-- The dataset used in this project is the cervical cancer risk factor extracted from UCI Machine Learning Repository[@data_source]
+- The dataset used in this project is the cervical cancer risk factor extracted from UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/383/cervical+cancer+risk+factors)
 
 - The dataset was collected at ”Hospital Universitario de Caracas” in Caracas, Venezuela which consists of demographic information, habits, and historic medical records of 858 patients with 32 attributes and 4 target classes (Hinselmann, Schiller, Cytology and Biopsy)
